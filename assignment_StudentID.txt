@@ -1,0 +1,7 @@
+{"student_id": "22067128", "course_code": "CSC101", "assignment_name": "CSC101_assignment", "status": "Submitted", "submission_date": "2024-03-17 10:30:00"}
+{"student_id": "22071112", "course_code": "NET1014", "assignment_name": "NET1014_assignment", "status": "Submitted", "submission_date": "2024-03-17 11:45:00"}
+{"student_id": "22039069", "course_code": "MAT1024", "assignment_name": "MAT1024_assignment", "status": "Submitted", "submission_date": "2024-03-17 13:20:00"}
+{"student_id": "22001044", "course_code": "MAT1024", "assignment_name": "MAT1024_assignment", "status": "Submitted", "submission_date": "2024-03-17 15:10:00"}
+{"student_id": "23020852", "course_code": "CSC101", "assignment_name": "CSC101_assignment", "status": "Submitted", "submission_date": "2024-03-17 09:55:00"}
+{"student_id": "23021165", "course_code": "NET1014", "assignment_name": "NET1014_assignment", "status": "Submitted", "submission_date": "2024-03-17 12:30:00"}
+{"student_id": "23020324", "course_code": "MAT1024", "assignment_name": "MAT1024_assignment", "status": "Submitted", "submission_date": "2024-03-17 14:45:00"}

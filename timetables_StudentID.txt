@@ -1,0 +1,7 @@
+CSC101, Intro to CS, Dr. Smith, JC 1, 09:00-10:00, Tuesday
+NET1014, Networking Principles, Dr Chin Teck Min, NW 2-01, 10:00-12:00, Wednesday
+MAT1024, Linear Algebra and Mathematics Application, Dr Syed, SW 4-03, 14:00-16:00, Friday
+CSC1024, Programming Principles, Ts. Dr. Ngu War Hlaing, JC 1, 17:00-19:00, Monday
+BIS1014, Information System Concepts, Assoc. Prof. Ir Abdul Aziz Omar, JC 2, 08:00-10:00, Monday
+MPU3183, Penghayatan Etika dan Peradaban, Ms.Izzati, JC 2, 10:30-12:30, Friday
+PSY1014, Introduction To Psychology, Mr.Aliam, NE-3-14, 13:00-15:00, Monday
